@@ -1,0 +1,69 @@
+{
+  "search_criteria": {
+    "target_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Coimbatore",
+      "Hyderabad"
+    ],
+    "allowed_work_models": [
+      "Hybrid",
+      "On-site"
+    ],
+    "excluded_work_models": [
+      "Remote",
+      "100% Remote"
+    ],
+    "min_experience_years": 1,
+    "max_experience_years": 3,
+    "max_recency_days": 14,
+    "primary_languages": [
+      "Python",
+      "Rust",
+      "Go",
+      "SQL",
+      "C++"
+    ],
+    "core_technologies": [
+      "asyncio",
+      "FastAPI",
+      "Tokio",
+      "Axum",
+      "SQLx",
+      "PyO3",
+      "PostgreSQL",
+      "Polars",
+      "Apache Arrow",
+      "Apache DataFusion",
+      "PySpark",
+      "Delta Lake",
+      "Redis",
+      "NATS JetStream",
+      "Kafka",
+      "ETL / ELT",
+      "Singer.io",
+      "Distributed Processing",
+      "Docker",
+      "Kubernetes",
+      "OAuth 2.0 / OIDC",
+      "Casdoor",
+      "gRPC"
+    ],
+    "specializations": [
+      "Columnar Storage & Query Engines",
+      "Zero-Copy FFI (Arrow C Data Interface)",
+      "Transactional Outbox & Event-Driven Systems",
+      "Data Lakehouse Architectures (Medallion)",
+      "Custom Tap/Target Ingestion (ERP Integrations)"
+    ]
+  },
+  "email_settings": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "gunasridhar122001@gmail.com",
+    "sender_password": "bpcktjzvujuugbmy",
+    "recipient_email": "gunasridhar122001@gmail.com",
+    "enable_smtp": true,
+    "save_html_preview": true
+  }
+}
