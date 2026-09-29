@@ -1,4 +1,70 @@
 {
+  "dream_companies": [
+    {
+      "name": "Sarvam AI",
+      "careers_url": "https://jobs.ashbyhq.com/sarvam",
+      "ats_provider": "ashby",
+      "ats_slug": "sarvam"
+    },
+    {
+      "name": "Databricks",
+      "careers_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
+      "ats_provider": "greenhouse",
+      "ats_slug": "databricks"
+    },
+    {
+      "name": "Cloudflare",
+      "careers_url": "https://boards.greenhouse.io/cloudflare/jobs/8097321",
+      "ats_provider": "greenhouse",
+      "ats_slug": "cloudflare"
+    },
+    {
+      "name": "Razorpay",
+      "careers_url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited",
+      "ats_provider": "greenhouse",
+      "ats_slug": "razorpaysoftwareprivatelimited"
+    },
+    {
+      "name": "CRED",
+      "careers_url": "https://jobs.lever.co/cred",
+      "ats_provider": "lever",
+      "ats_slug": "cred"
+    },
+    {
+      "name": "PhonePe",
+      "careers_url": "https://www.instahyre.com/job-287410-software-engineer-cloud-systems-at-phonepe-bangalore/",
+      "ats_provider": "direct"
+    },
+    {
+      "name": "Hasura",
+      "careers_url": "https://hasura.io/careers/open-roles/?job_id=backend-core-platform",
+      "ats_provider": "direct"
+    },
+    {
+      "name": "Zepto",
+      "careers_url": "https://careers.zepto.com/jobs/ai-infrastructure-engineer",
+      "ats_provider": "direct"
+    },
+    {
+      "name": "Stripe",
+      "careers_url": "https://stripe.com/jobs",
+      "ats_provider": "greenhouse",
+      "ats_slug": "stripe"
+    },
+    {
+      "name": "ALLEN Digital",
+      "careers_url": "https://www.instahyre.com/job-328495-junior-data-engineer-at-allen-digital-bangalore/",
+      "ats_provider": "direct"
+    }
+  ],
+  "job_sources": {
+    "enable_dream_companies_ats": true,
+    "enable_google_jobs_rss": true,
+    "enable_hackernews_yc": true,
+    "enable_arbeitnow": true,
+    "enable_remotive": true,
+    "enable_curated_corpus": true
+  },
   "search_criteria": {
     "target_locations": [
       "Bengaluru",
